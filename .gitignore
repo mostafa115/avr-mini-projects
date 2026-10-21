@@ -1,0 +1,7 @@
+build/
+Debug/
+*.o
+*.d
+*.elf
+*.hex
+*.map
